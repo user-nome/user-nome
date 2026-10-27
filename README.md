@@ -1,1 +1,1 @@
-<img src="./img/oooo.gif" width="100%" alt="só uma capa atoa"/>
+<img src="./img/oooo.gif" width="100%" alt="perdi acesso a essa conta tembem, e provavelmente vão simplismente dizer que não forneci dados o suficiente para recuperar o acesso, ja tô cansado ja. nem vou esquentar a cabeça que pra onde voces vão é verão o ano todo"/>
