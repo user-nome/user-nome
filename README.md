@@ -1,1 +1,1 @@
-<img src="./img/capa.gif" width="100%" alt="vortei"/>
+<img src="./img/zenitsu.gif" width="100%" alt="vortei"/>
