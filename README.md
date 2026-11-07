@@ -1,1 +1,1 @@
-<img src="./img/live.gif" width="100%" alt=""/>
+<img src="./img/bem-vindos.gif" width="100%" alt=""/>
